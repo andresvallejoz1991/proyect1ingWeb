@@ -1,0 +1,116 @@
+*{
+ padding: 1;
+ margin: 1;   
+}
+body{
+    background-color:black;
+    color: ghostwhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header.cabeceraPrincipal{
+    background-color:black;
+    color: red;
+    width: 90%;
+    display: inline-block;
+}
+
+header.cabeceraPrincipal h1{
+    font-size: 1em;
+    padding: 1em;
+    width: 60%;
+    display: inline-block;
+}
+
+a.a1{
+    background-color:black;
+    color: red;
+}
+
+a.a2{
+    background-color:black;
+    color: red;
+}
+
+a.a3{
+    background-color:black;
+    color: red;
+}
+
+a.a4{
+    background-color:black;
+    color: red;
+}
+
+section.introduccion{
+    color: red;
+    padding: 0%;
+    margin: 0%;
+    display: inline-block
+}
+
+section.sectionPersonajes{
+    color: red;
+    padding: 0%;
+    margin: 0%;
+    display: inline-block
+}
+
+section.sectionP{
+    width: 90%;
+    display: inline-block;
+}
+
+section.sectionP h1{
+    font-size: 1em;
+    padding-top: 1em;
+    width: 70%;
+    float: right;
+    color: red;
+}
+section.sectionP article{
+    font-size: 1em;
+    padding: 1em;
+    width: 70%;
+    float: left;
+}
+
+section.sectionS{
+    width: 90%;
+    display: inline-block;
+}
+
+section.sectionS h1{
+    font-size: 1em;
+    padding-top: 1em;
+    width: 70%;
+    float: right;
+    color: red;
+}
+
+section.sectionS article{
+    font-size: 1em;
+    padding: 1em;
+    width: 70%;
+    float: left;
+}
+
+section.sectionF{
+    width: 90%;
+    display: inline-block;
+}
+
+section.sectionF h1{
+    font-size: 1em;
+    padding-top: 1em;
+    width: 70%;
+    float: right;
+    color: red;
+}
+
+section.sectionF article{
+    font-size: 1em;
+    padding: 1em;
+    width: 70%;
+    float: left;
+}
